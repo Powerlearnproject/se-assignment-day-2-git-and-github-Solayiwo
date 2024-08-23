@@ -132,8 +132,7 @@ command **git checkout feature-branch-name** or **git switch feature-branch-name
 **git add .**
 **git commit -m "Describe the changes made in this branch"**
 Then push the branch to GitHub using **git push -u origin feature-branch-name**. Note, The -u flag sets the upstream branch, linking your local branch to the remote branch on GitHub.
-- Merging a Branch
-Create a Pull Request (PR) on GitHub, to merge your branch into the main branch, open a pull request on GitHub. Navigate to the repository on GitHub, select your branch, and click “New pull request.” then provide a description of the changes and request a review. Merge the branch either through GitHub or locally. On GitHub, Click the “Merge pull request” button to merge your changes. Locally, Switch back to the main branch and merge using the two command:
+- Merging a branch create a Pull Request (PR) on GitHub. Navigate to the repository on GitHub, select your branch, and click “New pull request.” then provide a description of the changes and request a review. Merge the branch either through GitHub or locally. On GitHub, Click the “Merge pull request” button to merge your changes. Locally, Switch back to the main branch and merge using the two command:
 **git checkout main** **git merge feature-branch-name**. After merging, you can delete the branch to keep your repository clean using **git branch -d feature-branch-name** **git push origin --delete feature-branch-name**
 
 ## Explore the role of pull requests in the GitHub workflow. How do they facilitate code review a nd collaboration, and what are the typical steps involved in creating and merging a pull request?
