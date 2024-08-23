@@ -10,12 +10,12 @@ GitHub is a widely used platform that hosts Git repositories, offering tools for
 - Continuous Integration/Continuous Deployment (CI/CD): GitHub integrates well with
 CI/CD tools, allowing automatic testing and deployment of code.
   
-- How Version Control Helps Maintain Project Integrity
- - It prevent conflicts
- -It ensure accountability
- -It preserve history
- -It support collaboration
- -It facilitating code reviews
+How Version Control Helps Maintain Project Integrity
+- It prevent conflicts
+- It ensure accountability
+- It preserve history
+- It support collaboration
+- It facilitating code reviews
 
 ## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
 
