@@ -101,7 +101,7 @@ Steps to Make Your First Commit to a GitHub Repository
 - Set Up Git: Configure your Git username and email by running these two commands in your terminal: git config --global user.name "Your Name", git config --global user.email "your.email@example.com"
 - Create a New Repository on GitHub or Clone the Repository to Your Local Machine: Go to GitHub and create a new repository as described in the previous section, choose whether to initialize it with a README or leave it empty. If you initialized the repository on GitHub and want to work on it locally, clone it using this command: git clone https://github.com/your-username/repository-name.git
 - Create a New Project directory Locally (If Not Cloned), Navigate to your project directory in the terminal and use this command 'git init' to initialize Git, then link your local repository to the GitHub repository with the command 'git remote add origin https://github.com/your-username/repository-name.git'.
-- Add Files to Your Project, stage the file using **git add .**.
+- Add Files to Your Project, stage the file using '**git add .**'.
 - Commit the stage file using the command git commit -m  
 
 ## How does branching work in Git, and why is it an important feature for collaborative development on GitHub? Discuss the process of creating, using, and merging branches in a typical workflow.
