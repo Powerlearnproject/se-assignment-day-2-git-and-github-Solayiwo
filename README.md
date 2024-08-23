@@ -173,11 +173,10 @@ Forking a repository on GitHub is the process of creating a personal copy of som
 Forking and cloning involve creating copies of a repository, they serve different purposes
 and are used in different contexts:
 - Forking:
- - Purpose: Forking is typically used when you want to contribute to someone else's project or create your own version of it. The forked repository exists on your GitHub account, and you can make changes independently of the original repository.
- - Relationship: A fork maintains a connection to the original repository, allowing you to submit pull requests to propose changes back to the original project.
- - Location: The forked repository is a new repository under your GitHub account, with a URL like https://github.com/your-username/original-repo-name.
- - Use Case: Forking is used when you intend to contribute to the original project, make
-significant changes, or want to maintain your own version of the project over time.
+  - Purpose: Forking is typically used when you want to contribute to someone else's project or create your own version of it. The forked repository exists on your GitHub account, and you can make changes independently of the original repository.
+  - Relationship: A fork maintains a connection to the original repository, allowing you to submit pull requests to propose changes back to the original project.
+  - Location: The forked repository is a new repository under your GitHub account, with a URL like https://github.com/your-username/original-repo-name.
+ - Use Case: Forking is used when you intend to contribute to the original project, make significant changes, or want to maintain your own version of the project over time.
 
 
 Scenarios Where Forking Is Particularly Useful
