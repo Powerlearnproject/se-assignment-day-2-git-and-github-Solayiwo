@@ -1,6 +1,6 @@
 # se-day-2-git-and-github
 ## Explain the fundamental concepts of version control and why GitHub is a popular tool for managing versions of code. How does version control help in maintaining project integrity?
-- Version Control is a system that tracks changes made to files over time. It allows multiple people to work on a project simultaneously without overwriting each other’s work. The primary functions of version control include tracking of changes on a file, creating and merging of branches, collaboration on the same project and reverting changes on a project.
+Version Control is a system that tracks changes made to files over time. It allows multiple people to work on a project simultaneously without overwriting each other’s work. The primary functions of version control include tracking of changes on a file, creating and merging of branches, collaboration on the same project and reverting changes on a project.
 
 GitHub is a widely used platform that hosts Git repositories, offering tools for managing and sharing code. Its popularity include the following
 - Integration with Git: GitHub provides a user-friendly interface for Git, a powerful distributed version control system, making it easier to use.
