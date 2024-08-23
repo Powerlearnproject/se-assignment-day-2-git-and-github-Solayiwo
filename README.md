@@ -176,8 +176,14 @@ and are used in different contexts:
   - Purpose: Forking is typically used when you want to contribute to someone else's project or create your own version of it. The forked repository exists on your GitHub account, and you can make changes independently of the original repository.
   - Relationship: A fork maintains a connection to the original repository, allowing you to submit pull requests to propose changes back to the original project.
   - Location: The forked repository is a new repository under your GitHub account, with a URL like https://github.com/your-username/original-repo-name.
- - Use Case: Forking is used when you intend to contribute to the original project, make significant changes, or want to maintain your own version of the project over time.
+  - Use Case: Forking is used when you intend to contribute to the original project, make significant changes, or want to maintain your own version of the project over time.
 
+- Cloning:
+  - Purpose: Cloning is used to create a local copy of a repository on your machine. This allows you to work on the code locally, commit changes, and push them back to the original or forked repository.
+  - Relationship: Cloning does not establish a new repository on GitHub; it simply copies the code to your local environment. You can clone a repository that you own, one you have forked, or even someone else's repository if you have access.
+  - Location: The cloned repository exists only on your local machine until you push changes to a remote repository.
+  -  Use Case: Cloning is used when you want to work on a repository locally, whether it's
+your own project, a fork, or even just to explore someone else's code.
 
 Scenarios Where Forking Is Particularly Useful
 - Contributing to Open Source Projects
